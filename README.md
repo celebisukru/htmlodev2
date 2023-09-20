@@ -2,7 +2,6 @@
 <html lang="tr">
     <meta charset="UTF-8">
 <head>
-<title>ödev 1</title>
 </head>
 <body>
 <!--ana başlık --> 
